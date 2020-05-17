@@ -14,4 +14,4 @@ xterm -e "source ../../devel/setup.sh;
 
 sleep 15
 xterm -e "source ../../devel/setup.sh;
-	 rosrun pick_objects pick_objects" 
+	 rosrun add_markers add_markers" 
